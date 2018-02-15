@@ -4,6 +4,8 @@ Welcome to the Hexo documentation. If you encounter any problems when using Hexo
 
 ## What is Hexo?
 
+This line was created after initial build.
+
 Hexo is a fast, simple and powerful blog framework. You write posts in [Markdown](http://daringfireball.net/projects/markdown/) (or other languages) and Hexo generates static files with a beautiful theme in seconds.
 
 ## Installation
